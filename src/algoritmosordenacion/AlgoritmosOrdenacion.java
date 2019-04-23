@@ -11,7 +11,12 @@ package algoritmosordenacion;
  */
 public class AlgoritmosOrdenacion {
 
+    //llamo valor a cada numero de la serie 
     public void Burbuja(int [] valores ){
+        //declaro un for con int i menor del numero de valores que hay 
+        for(int i=1;i<valores.length;i++){
+            
+        }
     
 }
     /**
